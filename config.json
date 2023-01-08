@@ -1,6 +1,6 @@
 {
-	"inputRam": false,
+	"inputRam": true,
 	"Ram": "2G",
-	"inputPortforwarding": false,
+	"inputPortforwarding": true,
 	"autoPortForward": true
 }

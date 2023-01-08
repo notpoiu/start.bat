@@ -1,2 +1,1 @@
-# start.bat
-a repository with start.bat for your minecraft server
+idk i was bored lmao

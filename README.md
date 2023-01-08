@@ -10,6 +10,10 @@ it has a decent amount of features for a python program coded in 2 hours.
 - [x] Finds if you have the good version of java to run the jar (although its very scuffed)
 - [x] Set the amount of ram in GB without much hassle ¯\\\_(ツ)_/¯
 
+## TODO list:
+
+- [] make a automatic server downloader
+
 <br>
 ## how to run it
 double click it, no need to go in terminal and stuff

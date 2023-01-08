@@ -15,6 +15,6 @@ it has a decent amount of features for a python program coded in 2 hours.
 - [ ] make a automatic server downloader
 - [ ] Fix more bugs if i stumble into them
 
-<br>
+
 ## how to run it
 double click it, no need to go in terminal and stuff
